@@ -1,14 +1,16 @@
 ---
 tags:
   - outscout
+  - зок2026
   - рисунок
   - видеообзор
   - анонс
   - разработка
+  - зок
 ---
 # OutscoutZokReviewDev
 
-![OutscoutGivesOrdersToCake](https://lapkiteam.github.io/OutscoutZokReviewDev/OutscoutGivesOrdersToCake.png)
-<!-- todo: добавить сценарий -->
+![Аутскаут приказывает дорогущему торту не подвести его](https://lapkiteam.github.io/OutscoutZokReviewDev/OutscoutGivesOrdersToCake.png)
+*Сценарий картинки — [тут](./docs/scenario.md)*
 
 Надёжные источники сообщают, что Аутскаут празднует окончание Зимней Олимпиады (и это в середине весны!). Есть мнение, что тайком создаётся очередной обзор. А иначе зачем нужен такой дорогой торт? Только для работы! Надеюсь.
